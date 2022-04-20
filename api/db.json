@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "name": "Saqib",
+      "email": "saqibraza0902@gmail.com",
+      "contact": "3727882",
+      "address": "Faisalabad",
+      "id": 1
+    },
+    {
+      "name": "Noman",
+      "email": "Noman@gmail.com",
+      "contact": "3727882",
+      "address": "Lahore",
+      "id": 2
+    }
+  ]
+}
